@@ -1,4 +1,9 @@
-theme: jekyll-theme-minimal
+<<<<<<< HEAD
+#theme: jekyll-theme-minimal
+remote_theme: "mmistakes/minimal-mistakes"
+=======
+theme: minimal
+>>>>>>> parent of 08fbd94... Revert again
 
 title: RKNFXX's mechanical machinations
 description: Adventures in the world of mechanical keyboards, and other nonsense.
@@ -8,3 +13,6 @@ pages:
   - Home: index.md
   - Boards:
     - MasterKeys Pro S: boards/masterkeyspros.md
+
+plugins:
+  - jekyll-remote-theme
