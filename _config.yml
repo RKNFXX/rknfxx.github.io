@@ -1,5 +1,10 @@
-theme: jekyll-theme-minimal
+theme: material
 
 title: RKNFXX's mechanical machinations
 description: Adventures in the world of mechanical keyboards, and other nonsense.
 show_downloads: false
+
+pages:
+  - Home: index.md
+  - Boards:
+    - MasterKeys Pro S: boards/masterkeyspros.md
