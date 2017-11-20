@@ -1,5 +1,4 @@
-#theme: jekyll-theme-minimal
-remote_theme: "mmistakes/minimal-mistakes"
+theme: jekyll-theme-minimal
 
 title: RKNFXX's mechanical machinations
 description: Adventures in the world of mechanical keyboards, and other nonsense.
@@ -9,6 +8,3 @@ pages:
   - Home: index.md
   - Boards:
     - MasterKeys Pro S: boards/masterkeyspros.md
-
-plugins:
-  - jekyll-remote-theme
