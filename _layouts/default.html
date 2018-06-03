@@ -48,12 +48,12 @@
     #content, footer {
       width: 80%;
       margin: auto;
+      padding: 20px;
       left: 50%;
       background: hsl(0, 0%, 95%);
       border-left: 1px solid hsl(0, 0%, 80%);
       border-right: 1px solid hsl(0, 0%, 80%);
       border-bottom: 1px solid hsl(0, 0%, 80%);
-      height: 100%;
     }
 
     </style>
@@ -78,10 +78,10 @@
         </div>
       </div>
       </header>
-      <section id="content">
-
-      {{ content }}
-
+      <section>
+        <div id="content">
+          {{ content }}
+        </div>
       </section>
       <footer>
         {% if site.github.is_project_page %}
