@@ -4,19 +4,19 @@
 # The Collection
 
 ###### 40%
-- Planck (Gat Black)
+- Planck (Handwire, Gat Black)
 - Let's Split (67g R6 Zealio)
-- UT47 (BOX Navy)
-- UT47 (BOX Royal)
+- UT47 (White, BOX Navy)
+- UT47 (Black, BOX Royal)
 
 ##### 60%
 
 - Anne Pro (Gat Brown)
-- ACR60 (Gat Yellow)
-- Zeal60 (78g Cherry Zilent)
-- HHKB
-- Tokyo60
+- ACR60 x KBDFans 5° (Gat Yellow)
+- Zeal60 x KBDFans 5° (78g Cherry Zilent)
+- HHKB Pro 2
 - Alps64 (SKCM Orange)
+- Tokyo60
 
 ##### TKL
 
@@ -28,9 +28,9 @@
 
 ##### 100%
 
-- Apple Extended Keyboard II (parts donor)
 - Apple Extended Keyboard II
 
-##### ????
+##### Parts Boards
 
+- Apple Extended Keyboard II (parts donor)
 - Apple M0116 (parts donor)
